@@ -1,0 +1,47 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+hr {
+    border-top: 10px dotted white;
+    border-left: none;
+    border-right: none;
+    border-bottom: none;
+    margin: 30px 0;
+}
+
+.default {
+    padding: 50px 100px;
+    color: white;
+    box-sizing: border-box;
+    min-height: 100vh;
+    background-color: black;
+}
+
+.edu {
+    background-color: red;
+}
+    
+.ski {
+    background-color: orange;
+}
+
+.per {
+    background-color: green;
+}
+
+.lag {
+    background-color: blue;
+}
+
+img {
+    height: 200px;
+    display: float;
+    float: right;
+}
+
+h2 {
+    position: sticky;
+    top: 0;
+}
